@@ -6,7 +6,7 @@ was around a single board containing all of the parts (a single board computer!!
 initial draw up, I realised that there were a lot of unknown details to the design and if I needed to change anything it would mean producing an entire new PCB. After a little thought I decided to do a backplane design that allows sections and functionality to be plugged in as required. If I wanted to remove or change any
 sections I could just redo that plug in card rather that everything. 
 
-The system at present considts of:
+The system at present consists of:
 * Backplane Board
 * Power Supply and Reset Card
 * CPU Card
